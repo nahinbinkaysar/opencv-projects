@@ -21,7 +21,9 @@ Real-time face detection using OpenCV's Haar Cascade classifier.
 
 **Demo:**
 
-https://github.com/user-attachments/assets/FACE_VIDEO_ID
+<p align="center" width="100%">
+<video src="https://github.com/nahinbinkaysar/opencv-projects/releases/download/demo/face-detection.mov" width="80%" controls></video>
+</p>
 
 ---
 
@@ -36,7 +38,11 @@ Real-time hand detection and skeletal landmark tracking using MediaPipe.
 
 **Demo:**
 
-https://github.com/user-attachments/assets/HAND_VIDEO_ID
+<p align="center" width="100%">
+<video src="https://github.com/nahinbinkaysar/opencv-projects/releases/download/demo/hand-detection.mov" width="80%" controls></video>
+</p>
+
+
 
 ---
 
@@ -54,7 +60,7 @@ Automated vehicle detection and counting using YOLOv11 with custom tracking logi
 
 | Original Video | Annotated Output |
 |----------------|------------------|
-| https://github.com/user-attachments/assets/VEHICLE_ORIGINAL_ID | https://github.com/user-attachments/assets/VEHICLE_ANNOTATED_ID |
+| <video src="https://github.com/nahinbinkaysar/opencv-projects/releases/download/demo/video.mp4" width="360" controls></video> | <video src="https://github.com/nahinbinkaysar/opencv-projects/releases/download/demo/annotated_video.mp4" width="360" controls></video> |
 
 ---
 
