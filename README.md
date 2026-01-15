@@ -21,6 +21,7 @@ Real-time face detection using OpenCV's Haar Cascade classifier.
 
 **Demo:**
 
+![video alt text](https://github.com/nahinbinkaysar/opencv-projects/releases/download/demo/video.mp4)
 <p align="center" width="100%">
 <video src="https://github.com/nahinbinkaysar/opencv-projects/releases/download/demo/face-detection.mov" width="80%" controls></video>
 </p>
